@@ -1,7 +1,7 @@
-Invoice Generator App
+# Invoice Generator App
 Welcome to the Invoice Generator App! This application simplifies the process of creating professional invoices for businesses of any size. With our user-friendly interface and customizable features, you can generate accurate and polished invoices in no time.
 
-Features
+## Features
 Easy-to-Use Interface: Intuitive design makes it simple for users to navigate and create invoices.
 Customizable Templates: Choose from a variety of pre-designed templates or create your own to match your brand identity.
 Flexible Billing Options: Support for hourly rates, fixed fees, and recurring billing cycles.
@@ -11,11 +11,11 @@ PDF Export: Export invoices as PDF files for easy sharing and printing.
 Installation
 To install the Invoice Generator App, simply follow these steps:
 
-Clone the repository to your local machine:
+## Clone the repository to your local machine:
 
-bash
-Copy code
+~~~
 git clone https://github.com/exxotelis/invoice-generator.git
+~~~
 Navigate to the project directory:
 
 bash
